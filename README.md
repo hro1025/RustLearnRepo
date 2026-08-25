@@ -17,8 +17,8 @@ This repo is my learning journey with Rust by following this book:  https://rust
 
 ### 3. Common Programming Concepts
 - [X] Common Programming Concepts
-  - [ ] Variables and Mutability
-  - [ ] Data Types
+  - [X] Variables and Mutability
+  - [X] Data Types
   - [ ] Functions
   - [ ] Comments
   - [ ] Control Flow
