@@ -19,9 +19,9 @@ This repo is my learning journey with Rust by following this book:  https://rust
 - [X] Common Programming Concepts
   - [X] Variables and Mutability
   - [X] Data Types
-  - [ ] Functions
-  - [ ] Comments
-  - [ ] Control Flow
+  - [X] Functions
+  - [X] Comments
+  - [X] Control Flow
 
 ### 4. Understanding Ownership
 - [ ] Understanding Ownership
