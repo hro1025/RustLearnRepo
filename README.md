@@ -24,7 +24,7 @@ This repo is my learning journey with Rust by following this book:  https://rust
   - [X] Control Flow
 
 ### 4. Understanding Ownership
-- [ ] Understanding Ownership
+- [X] Understanding Ownership
   - [ ] What is Ownership?
   - [ ] References and Borrowing
   - [ ] Fixing Ownership Errors
