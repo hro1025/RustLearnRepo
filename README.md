@@ -26,10 +26,10 @@ This repo is my learning journey with Rust by following this book:  https://rust
 ### 4. Understanding Ownership
 - [X] Understanding Ownership
   - [X] What is Ownership?
-  - [ ] References and Borrowing
-  - [ ] Fixing Ownership Errors
-  - [ ] The Slice Type
-  - [ ] Ownership Recap
+  - [X] References and Borrowing
+  - [X] Fixing Ownership Errors
+  - [X] The Slice Type
+  - [X] Ownership Recap
 
 ### 5. Using Structs to Structure Related Data
 - [ ] Using Structs to Structure Related Data
