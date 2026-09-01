@@ -32,9 +32,9 @@ This repo is my learning journey with Rust by following this book:  https://rust
   - [X] Ownership Recap
 
 ### 5. Using Structs to Structure Related Data
-- [ ] Using Structs to Structure Related Data
-  - [ ] Defining and Instantiating Structs
-  - [ ] An Example Program Using Structs
+- [X] Using Structs to Structure Related Data
+  - [X] Defining and Instantiating Structs
+  - [X] An Example Program Using Structs
   - [ ] Methods
 
 ### 6. Enums and Pattern Matching
